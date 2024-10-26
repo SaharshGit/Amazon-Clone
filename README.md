@@ -1,1 +1,1 @@
-<h3>Amazon website colne using HTML and CSS</h3>
+<h3>Amazon website clone using HTML and CSS</h3>
